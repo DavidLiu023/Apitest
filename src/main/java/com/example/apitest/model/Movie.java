@@ -18,6 +18,10 @@ public class Movie {
         this.imdbID = imdbID;
     }
 
+    public Movie() {
+
+    }
+
     // Getters and Setters
     public String getTitle() {
         return title;
